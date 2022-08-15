@@ -33,4 +33,5 @@ require (
 	device/sam v0.0.0-00010101000000-000000000000 // indirect
 	runtime/interrupt v0.0.0-00010101000000-000000000000 // indirect
 	runtime/volatile v0.0.0-00010101000000-000000000000 // indirect
+	tinygo.org/x/drivers v0.21.0
 )

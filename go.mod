@@ -28,6 +28,8 @@ replace testing => /usr/local/lib/tinygo/src/testing
 
 require machine v0.0.0-00010101000000-000000000000
 
+require github.com/eclipse/paho.mqtt.golang v1.2.0 // indirect
+
 require (
 	device/arm v0.0.0-00010101000000-000000000000 // indirect
 	device/sam v0.0.0-00010101000000-000000000000 // indirect
